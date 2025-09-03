@@ -36,7 +36,7 @@ The primary implementation is the **Neurovoz v3 audio processing pipeline**, wit
 The system uses a **file-based architecture**, where components communicate through structured files rather than direct API calls, allowing robust batch processing.
 
 <!-- Insert image here: Data Processing Pipeline -->
-![Data Processing Pipeline](https://github.com/user-attachments/assets/bf2b65a9-0b66-472c-af2d-c22116466ed5)
+![Repository Architecture](https://github.com/user-attachments/assets/5dc7567a-0bdb-4276-82ca-534d16d3c934)
 
 ---
 
